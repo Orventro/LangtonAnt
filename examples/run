@@ -1,0 +1,4 @@
+g++ main.cpp -I ../ ../Ant.cpp -o ant -lsfml-window -lsfml-graphics -lsfml-system  && (
+echo compiled succesfully.
+./ant
+)
